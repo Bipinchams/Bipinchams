@@ -32,6 +32,8 @@
 
 **Currently:** building the **Cafe-music-website** backend-to-be, polishing my portfolio, and practicing UI design.
 
+<img src="assets/onepiece-1-landscape.jpg" width="100%" alt="One Piece crew sailing" />
+
 </td>
 </tr>
 </table>
@@ -137,4 +139,5 @@ A website built with only HTML & CSS for a Saitama ICT contest.
 <sub>✨ Thanks for stopping by the Grand Line ✨</sub>
 
 </div>
+
 
