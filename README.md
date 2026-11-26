@@ -1,17 +1,20 @@
-﻿<h1 align="center">🏴‍☠️ Bipin Rai · Crew Captain of Code 🏴‍☠️</h1>
-
-<p align="center">
-  <img src="assets/onepiece-1.jpg" width="200" alt="One Piece art 1" />
-  <img src="assets/onepiece-2.jpg" width="200" alt="One Piece art 2" />
-  <img src="assets/onepiece-3.jpg" width="200" alt="One Piece art 3" />
+﻿<p align="center">
+  <img src="assets/banner.jpg" width="100%" alt="Bipin Rai · Crew Captain of Code banner" />
 </p>
 
 <p align="center">
   Nepali developer based in Japan 🇯🇵 · Web & Application Production Student
 </p>
 
----
+<table align="center">
+  <tr>
+    <td><img src="assets/onepiece-1-landscape.jpg" width="300" alt="Crew art 1" /></td>
+    <td><img src="assets/onepiece-2-landscape.jpg" width="300" alt="Crew art 2" /></td>
+    <td><img src="assets/onepiece-3-landscape.jpg" width="300" alt="Crew art 3" /></td>
+  </tr>
+</table>
 
+---
 ## 👒 About Me
 
 - 🌊 Charting my course through **JavaScript, Java, SQL & Web Development**
@@ -64,3 +67,4 @@
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Bipinchams&icon=0&color=0" alt="Profile views" />
 </p>
+
