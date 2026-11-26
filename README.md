@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1100&color=F7C941&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Bipin+Rai+%F0%9F%91%8B;Web+%26+Application+Developer+in+the+making;Charting+a+course+through+JavaScript+%26+Java;Every+legend+starts+with+one+line+of+code+%E2%9A%93" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&weight=400&size=34&pause=1100&color=F7C941&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Bipin+Rai+%F0%9F%91%8B;Web+%26+Application+Developer+in+the+making;Charting+a+course+through+JavaScript+%26+Java;Every+legend+starts+with+one+line+of+code+%E2%9A%93" alt="Typing intro" />
 
 <p>
   🇳🇵 Nepali · 🇯🇵 Based in Japan · 🎓 Web & Application Production Student
@@ -38,7 +38,7 @@
 
 ---
 
-## 🛠️ Toolkit
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=header&text=Toolkit&fontSize=44&fontColor=ffffff&fontAlignY=38&fontFamily=Bangers" width="100%" alt="Toolkit" />
 
 <div align="center">
 
@@ -55,7 +55,7 @@
 
 ---
 
-## ⛵ Voyages (Projects)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=header&text=Voyages&fontSize=44&fontColor=ffffff&fontAlignY=38&fontFamily=Bangers" width="100%" alt="Voyages" />
 
 <table>
 <tr>
@@ -104,7 +104,7 @@ A website built with only HTML & CSS for a Saitama ICT contest.
 
 ---
 
-## 📊 Crew Stats
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=header&text=Crew%20Stats&fontSize=44&fontColor=ffffff&fontAlignY=38&fontFamily=Bangers" width="100%" alt="Crew%20Stats" />
 
 <div align="center">
 
@@ -119,7 +119,7 @@ A website built with only HTML & CSS for a Saitama ICT contest.
 
 ---
 
-## 📬 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=header&text=Let%27s%20Connect&fontSize=44&fontColor=ffffff&fontAlignY=38&fontFamily=Bangers" width="100%" alt="Let%27s%20Connect" />
 
 <div align="center">
 
@@ -137,3 +137,4 @@ A website built with only HTML & CSS for a Saitama ICT contest.
 <sub>✨ Thanks for stopping by the Grand Line ✨</sub>
 
 </div>
+
