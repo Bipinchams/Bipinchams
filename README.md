@@ -1,4 +1,10 @@
-﻿<h1 align="center">Hi, I'm Bipin Rai 👋</h1>
+﻿<h1 align="center">🏴‍☠️ Bipin Rai · Crew Captain of Code 🏴‍☠️</h1>
+
+<p align="center">
+  <img src="assets/onepiece-1.jpg" width="200" alt="One Piece art 1" />
+  <img src="assets/onepiece-2.jpg" width="200" alt="One Piece art 2" />
+  <img src="assets/onepiece-3.jpg" width="200" alt="One Piece art 3" />
+</p>
 
 <p align="center">
   Nepali developer based in Japan 🇯🇵 · Web & Application Production Student
@@ -6,18 +12,18 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👒 About Me
 
-- 🌱 Currently learning **JavaScript, Java, SQL & Web Development**
-- 🎨 Interested in **Web Design, UI/UX & Creative Development**
+- 🌊 Charting my course through **JavaScript, Java, SQL & Web Development**
+- 🎨 Drawn to **Web Design, UI/UX & Creative Development**
 - 🤖 Exploring **AI and modern web technologies**
-- 🎯 Goal: become a **Web / Application Developer**
+- 🗺️ Goal: become a **Web / Application Developer**
 
-> *The journey to becoming a great developer starts with one line of code.*
+> *Every legend starts with one line of code.*
 
 ---
 
-## 🚀 Featured Projects
+## ⚓ Featured Voyages (Projects)
 
 | Project | What it is | Tech |
 |---|---|---|
@@ -35,7 +41,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Crew Stats
 
 <p align="center">
   <img height="170" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=Bipinchams&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
@@ -47,7 +53,7 @@
 
 ---
 
-## 💬 Connect With Me
+## 📬 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Bipinrai001) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bipinrai3221@gmail.com)
 
